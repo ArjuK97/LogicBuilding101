@@ -1,4 +1,4 @@
-# LogicBuilding101
+# LogicBuilding101 
 
 - Welcome to **LogicBuilding101**, a curated collection of **101+1 must-do problems** designed to build your programming logic from scratch.
 - This repository serves as a foundational resource for anyone who wants to sharpen their problem-solving skills before diving into Data Structures and Algorithms (DSA).
