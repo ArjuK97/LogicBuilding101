@@ -5,7 +5,7 @@
 
 ## Overview
 
-- This repository is structured to take you on a journey from the basics of programming to slightly advanced concepts, focusing on logic-building exercises.
+- This repository is structured  to take you on a journey from the basics of programming to slightly advanced concepts, focusing on logic-building exercises.
 - Over **34 days**, with a daily commitment of solving 3 problems, you can develop a strong programming foundation.
 
 ### Problem Categories
